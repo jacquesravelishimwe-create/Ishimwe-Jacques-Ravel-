@@ -2,4 +2,4 @@
 
 Au cours de ce projet, j'ai fait le traitement des données sur un dataset. Il comprenait 10100 lignes. 
 Mais, il y avait des variables qui comprenaient des valeurs avec des types différents ou celles avec un type non requis.
-J'ai fait la suppression des doublons, des valeurs abbérantes(outliers), l'imputation des valeurs manquantes avec le KNNImputer du  module sklearn.preprocessing . Et, j'ai réussi à rester avec 10000 lignes.
+J'ai fait la suppression des doublons, des valeurs abbérantes(outliers), l'imputation des valeurs manquantes avec le KNNImputer du  module sklearn.impute . Et, j'ai réussi à rester avec 10000 lignes.
